@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\souce_code\\Study\\Refactor_C#\\top_level_statements_old\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1010E1A8-DCC1-4ABB-8A76-DB16F5BFE8CF}|top_level_statements_old.csproj|d:\\code\\souce_code\\study\\refactor_c#\\top_level_statements_old\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1010E1A8-DCC1-4ABB-8A76-DB16F5BFE8CF}|top_level_statements_old.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\souce_code\\Study\\Refactor_C#\\top_level_statements_old\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\code\\souce_code\\Study\\Refactor_C#\\top_level_statements_old\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:27:13.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

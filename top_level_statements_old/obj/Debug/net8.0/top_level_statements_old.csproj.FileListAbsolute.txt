@@ -1,0 +1,14 @@
+D:\code\souce_code\Study\Refactor_C#\top_level_statements_old\bin\Debug\net8.0\top_level_statements_old.exe
+D:\code\souce_code\Study\Refactor_C#\top_level_statements_old\bin\Debug\net8.0\top_level_statements_old.deps.json
+D:\code\souce_code\Study\Refactor_C#\top_level_statements_old\bin\Debug\net8.0\top_level_statements_old.runtimeconfig.json
+D:\code\souce_code\Study\Refactor_C#\top_level_statements_old\bin\Debug\net8.0\top_level_statements_old.dll
+D:\code\souce_code\Study\Refactor_C#\top_level_statements_old\bin\Debug\net8.0\top_level_statements_old.pdb
+D:\code\souce_code\Study\Refactor_C#\top_level_statements_old\obj\Debug\net8.0\top_level_statements_old.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\souce_code\Study\Refactor_C#\top_level_statements_old\obj\Debug\net8.0\top_level_statements_old.AssemblyInfoInputs.cache
+D:\code\souce_code\Study\Refactor_C#\top_level_statements_old\obj\Debug\net8.0\top_level_statements_old.AssemblyInfo.cs
+D:\code\souce_code\Study\Refactor_C#\top_level_statements_old\obj\Debug\net8.0\top_level_statements_old.csproj.CoreCompileInputs.cache
+D:\code\souce_code\Study\Refactor_C#\top_level_statements_old\obj\Debug\net8.0\top_level_statements_old.dll
+D:\code\souce_code\Study\Refactor_C#\top_level_statements_old\obj\Debug\net8.0\refint\top_level_statements_old.dll
+D:\code\souce_code\Study\Refactor_C#\top_level_statements_old\obj\Debug\net8.0\top_level_statements_old.pdb
+D:\code\souce_code\Study\Refactor_C#\top_level_statements_old\obj\Debug\net8.0\top_level_statements_old.genruntimeconfig.cache
+D:\code\souce_code\Study\Refactor_C#\top_level_statements_old\obj\Debug\net8.0\ref\top_level_statements_old.dll
