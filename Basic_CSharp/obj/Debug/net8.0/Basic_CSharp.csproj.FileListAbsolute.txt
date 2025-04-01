@@ -1,0 +1,15 @@
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\bin\Debug\net8.0\Basic_CSharp.exe
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\bin\Debug\net8.0\Basic_CSharp.deps.json
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\bin\Debug\net8.0\Basic_CSharp.runtimeconfig.json
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\bin\Debug\net8.0\Basic_CSharp.dll
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\bin\Debug\net8.0\Basic_CSharp.pdb
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\obj\Debug\net8.0\Basic_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\obj\Debug\net8.0\Basic_CSharp.AssemblyInfoInputs.cache
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\obj\Debug\net8.0\Basic_CSharp.AssemblyInfo.cs
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\obj\Debug\net8.0\Basic_CSharp.csproj.CoreCompileInputs.cache
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\obj\Debug\net8.0\Basic_CSharp.sourcelink.json
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\obj\Debug\net8.0\Basic_CSharp.dll
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\obj\Debug\net8.0\refint\Basic_CSharp.dll
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\obj\Debug\net8.0\Basic_CSharp.pdb
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\obj\Debug\net8.0\Basic_CSharp.genruntimeconfig.cache
+D:\code\souce_code\Study\Refactor_CSharp\Basic_CSharp\obj\Debug\net8.0\ref\Basic_CSharp.dll

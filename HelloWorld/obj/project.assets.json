@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\souce_code\\Study\\Refactor_C#\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "D:\\code\\souce_code\\Study\\Refactor_CSharp\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "D:\\code\\souce_code\\Study\\Refactor_C#\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "D:\\code\\souce_code\\Study\\Refactor_CSharp\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\bobif\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\souce_code\\Study\\Refactor_C#\\HelloWorld\\obj\\",
+      "outputPath": "D:\\code\\souce_code\\Study\\Refactor_CSharp\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bobif\\AppData\\Roaming\\NuGet\\NuGet.Config",
