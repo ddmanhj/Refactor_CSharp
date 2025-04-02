@@ -1,0 +1,11 @@
+bin/
+obj/
+TestResults/
+.vs/
+.idea/
+*.sln.iml
+**/appsettings*.json
+**/launchSettings*.json
+*.log
+*.tmp
+*.bak
