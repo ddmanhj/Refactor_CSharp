@@ -1,4 +1,89 @@
-﻿/*
+﻿// More String Manipulation with String Formatting
+int num = 10;
+double price = 19.95;
+string name = "Manhj";
+
+// String Interpolation
+Console.WriteLine($"The number is {num}");
+// String concatination
+Console.WriteLine("The number is " + num);
+// String formatting
+Console.WriteLine("The number is {0}, and the price is {1}", num, price);
+
+/*
+// Debug
+int num1 = 14;
+Console.WriteLine("Please enter a whole number!");
+int num2 = int.Parse(Console.ReadLine());
+
+// Conditional
+Console.WriteLine("Age is " + num1);
+
+Console.WriteLine("Addition num1 + num2 = " + num1 + num2);
+// Order of Evaluation
+
+Console.WriteLine("Subtraction num1 - num2 = " + (num1 - num2));
+
+Console.WriteLine("Division num1 / num2 = " + num1 / num2);
+*/
+
+/*
+// Operators, order of Evaluation and some math basics
+int num1 = 5;
+int num2 = 13;
+//Concatination
+Console.WriteLine("Age is " + num1);
+
+Console.WriteLine("Addition num1 + num2 = " + num1 + num2);
+// Order of Evaluation
+Console.WriteLine("Subtraction num1 - num2 = " + (num1 - num2));
+// "Subtraction num1 - num2 = 5" - 13
+// ==> Sử dụng () để phân biệt lúc nào cộng number lúc nào cộng string
+Console.WriteLine("Multiplication num1 * num2 = " + num1 * num2);
+Console.WriteLine("Division num1 / num2 = " + (num1 / num2));
+*/
+
+/*
+// explicitely typed variable (Khai báo ngầm định)
+var myFavoriteGenre = "LitRPGs";
+var myFavoriteNumber = 13;
+var yourFavoriteNumber = 14;
+var ourNumbersCombined = myFavoriteNumber = yourFavoriteNumber;
+
+// Implicitly Typed Variables (Khai báo tường minh)
+// Referency Type
+string myName = "manhj";
+*/
+
+
+/*
+// Conversion Helpers Parse and Convert
+string numberString = "123";
+int result = int.Parse(numberString);
+
+string myBoolString = "true";
+bool myBool = Convert.ToBoolean(myBoolString);
+Console.WriteLine("myBool is " + myBool);
+*/
+
+/*
+// Explicit conversion
+int myInput = 1348912084;		myBool	false	bool
+
+double myDouble = myInput;
+
+long myLong = myInput;
+myLong = 1323450;
+
+// explicit conversion
+int myInt2 = (int)myLong;
+Console.WriteLine(myInt2);
+
+float myFloat = 123.123f;
+myDouble = myFloat;
+*/
+
+/*
 // implicit conversion
 int myInput = 1348912084;
 double myDouble = myInput;
