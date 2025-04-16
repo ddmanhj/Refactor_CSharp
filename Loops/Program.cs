@@ -1,5 +1,31 @@
 ﻿using Loops;
 
+
+// ThreeDimensional Arrays
+string[,,] simple3DArray =
+{
+    {
+        {"000", "001"},
+        {"010", "011"}
+    },
+    {
+        {"100", "101"},
+        {"110", "111"}
+    },
+    {
+        {"200", "201"},
+        {"210", "211"}
+    }
+};
+Console.WriteLine(simple3DArray[0,1,0]);// 0 planes, 1 rows, 0 columns => 010
+
+for (int i = 1; i <= 5; i++)
+{
+    Console.WriteLine(i);
+}
+
+
+/*
 // TwoDimensional Arrays (Mảng 2 chiều)
 int[,] array2DDeclaration = new int[3, 3];
 // [0] [0] [0]
@@ -9,12 +35,22 @@ int[,] array2DDeclaration = new int[3, 3];
 int[,,] array3DDeclaration = new int[3, 3, 3];
 
 int[,] array2DInizilized = { { 1, 2 }, { 3, 4 } };
-// [1] [2]
-// [3] [4]
+// [1] [2] // row 0
+// [3] [4] // row 1
+Console.WriteLine(array2DInizilized[0, 1]); // 2
+Console.WriteLine("After = " + array2DInizilized[1, 0]); // After = 3
+array2DInizilized[1, 0] = 5;
+Console.WriteLine("Before = " + array2DInizilized[1, 0]); // Before = 5
 
-Console.WriteLine(array2DInizilized[0,0]); // 1
+string[,] tickTacToeField =
+{
+    {"O", "X", "X"},
+    {"O", "O", "X"},
+    {"X", "X", "O"}
+};
 
-array2DInizilized
+Console.WriteLine(tickTacToeField[1,2]);
+*/
 
 /*
 //Array part 2 
