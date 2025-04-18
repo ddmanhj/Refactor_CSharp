@@ -1,6 +1,23 @@
 ﻿using Loops;
 
+int[,] my2DArray = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
 
+for (int i = 0; i < my2DArray.GetLength(0); i++) // Lấy số hàng của mảng
+{
+    int sum = 0;
+    for (int j = 0; j < my2DArray.GetLength(1); j++) // Lấy số cột của mảng
+    {
+        sum += my2DArray[i, j]; // Cộng dồn các phần tử trong hàng i
+    }
+    Console.WriteLine(sum);
+}
+
+Console.ReadKey();
+
+/*exercise
+ */
+
+/*
 // ThreeDimensional Arrays
 string[,,] simple3DArray =
 {
@@ -23,6 +40,7 @@ for (int i = 1; i <= 5; i++)
 {
     Console.WriteLine(i);
 }
+*/
 
 
 /*
