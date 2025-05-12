@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\code\\souce_code\\Study\\Refactor_C#\\top_level_statements_old\\",
+  "WorkspaceRootPath": "G:\\Refactor_CSharp\\top_level_statements_old\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1010E1A8-DCC1-4ABB-8A76-DB16F5BFE8CF}|top_level_statements_old.csproj|d:\\code\\souce_code\\study\\refactor_c#\\top_level_statements_old\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1010E1A8-DCC1-4ABB-8A76-DB16F5BFE8CF}|top_level_statements_old.csproj|g:\\refactor_csharp\\top_level_statements_old\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1010E1A8-DCC1-4ABB-8A76-DB16F5BFE8CF}|top_level_statements_old.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1010E1A8-DCC1-4ABB-8A76-DB16F5BFE8CF}|top_level_statements_old.csproj|g:\\refactor_csharp\\top_level_statements_old\\programorigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1010E1A8-DCC1-4ABB-8A76-DB16F5BFE8CF}|top_level_statements_old.csproj|solutionrelative:programorigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\code\\souce_code\\Study\\Refactor_C#\\top_level_statements_old\\Program.cs",
+              "DocumentMoniker": "G:\\Refactor_CSharp\\top_level_statements_old\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\code\\souce_code\\Study\\Refactor_C#\\top_level_statements_old\\Program.cs",
+              "ToolTip": "G:\\Refactor_CSharp\\top_level_statements_old\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T12:27:13.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgramOrigin.cs",
+              "DocumentMoniker": "G:\\Refactor_CSharp\\top_level_statements_old\\ProgramOrigin.cs",
+              "RelativeDocumentMoniker": "ProgramOrigin.cs",
+              "ToolTip": "G:\\Refactor_CSharp\\top_level_statements_old\\ProgramOrigin.cs",
+              "RelativeToolTip": "ProgramOrigin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:55:33.111Z",
               "EditorCaption": ""
             }
           ]

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\souce_code\\Study\\Refactor_C#\\top_level_statements_old\\top_level_statements_old.csproj": {}
+    "G:\\Refactor_CSharp\\top_level_statements_old\\top_level_statements_old.csproj": {}
   },
   "projects": {
-    "D:\\code\\souce_code\\Study\\Refactor_C#\\top_level_statements_old\\top_level_statements_old.csproj": {
+    "G:\\Refactor_CSharp\\top_level_statements_old\\top_level_statements_old.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\souce_code\\Study\\Refactor_C#\\top_level_statements_old\\top_level_statements_old.csproj",
+        "projectUniqueName": "G:\\Refactor_CSharp\\top_level_statements_old\\top_level_statements_old.csproj",
         "projectName": "top_level_statements_old",
-        "projectPath": "D:\\code\\souce_code\\Study\\Refactor_C#\\top_level_statements_old\\top_level_statements_old.csproj",
-        "packagesPath": "C:\\Users\\bobif\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\souce_code\\Study\\Refactor_C#\\top_level_statements_old\\obj\\",
+        "projectPath": "G:\\Refactor_CSharp\\top_level_statements_old\\top_level_statements_old.csproj",
+        "packagesPath": "C:\\Users\\VNISC5\\.nuget\\packages\\",
+        "outputPath": "G:\\Refactor_CSharp\\top_level_statements_old\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\bobif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VNISC5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
