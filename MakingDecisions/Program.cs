@@ -1,4 +1,21 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+double CalculateAverage(double[] temperature)
+{
+    double sumCalculateAverage = 0;
+    for (int i = 0; i < temperature.Length; i++)
+    { 
+        sumCalculateAverage += temperature[i];
+    }
+    return Math.Round(sumCalculateAverage / temperature.Length, 1);
+}
+
+void PrintAverage(double[] temperature) {
+    Console.WriteLine($"The average temperature is: {CalculateAverage(temperature)}");
+}
+
+PrintAverage([3, 26, 24.4, 27, 25]);
+/*
 double num1 = 0;
 double num2 = 0;
 Console.WriteLine("Enter a number 1");
@@ -44,6 +61,7 @@ else
     Console.WriteLine("You entered a string, not a number");
 }
 
+/*
 
 
 
