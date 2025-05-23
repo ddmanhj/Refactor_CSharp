@@ -10,15 +10,21 @@ namespace OOP
 
 	internal class Car
 	{
-		// member variable
-		// private hides the variable from other classes
-		private string _model = "";
+        // member variable
+        // private hides the variable from other classes
+        private string _model = "";
+        //Property
+        public string Model { get => _model; set => _model = value; }
+        private string _brand = "";
+        public string Brand { get => _brand; set => _brand = value; }
 
-		private string _brand = "";
 		// Constructor
 		public Car(string model, string brand) {
-			_model = model;
-            Console.WriteLine($"A {brand} of the model {_model} has been created");
+            Brand = brand;
+            Model = model;
+            Console.WriteLine($"A {Brand} of the model {Model} has been created");
         }
-	}
+
+      
+    }
 }
