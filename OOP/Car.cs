@@ -12,21 +12,37 @@ namespace OOP
     {
         // member variable
         // private hides the variable from other classes
-        private string _model = "";
+
+        //
+        // private string _model = "";
+        
         private string _brand = "";
-        private bool _isLuxury;
+        //private bool _isLuxury;
         //Property
-        public string Model { get => _model; set => _model = value; }
+        //public string Model { get => _model; set => _model = value; }
+        public string Model { get; set; }
+
 
         public string Brand
         {
-            get => _brand;
+            get
+            {
+                if (IsLuxury)
+                {
+                    return _brand + " - Luxury Car";
+                }
+
+                else
+                {
+                    return _brand;
+                }
+            }
             set
             {
-                if (string.IsNullOrEmpty(value))
+                if(string.IsNullOrEmpty(value))
                 {
-                    Console.WriteLine("You entered NOTHING!");
-                    _brand = "Unknown"; // Default value if nothing is entered
+                    Console.WriteLine("Brand name cannot be empty. Setting to 'Unknown'.");
+                    _brand = "Unknown";
                 }
                 else
                 {
@@ -34,15 +50,19 @@ namespace OOP
                 }
             }
         }
+        
+        public bool IsLuxury { get; set; }
 
-        public bool IsLuxury { get => _isLuxury; set => _isLuxury = value; }
+        // Cách viết property này thường nên rút gọn thành { get; set; }, bởi vì cách này chỉ nên dùng khi cần validate hay làm logic khác như Brand
+        // Còn nếu chỉ đọc và set lại giá trị thì dùng { get; set; } cho ngắn gọn
+        //public bool IsLuxury { get => _isLuxury; set => _isLuxury = value; }
 
         // Constructor
         public Car(string model, string brand, bool isLuxury)
         {
             Brand = brand;
             Model = model;
-            _isLuxury = isLuxury;
+            IsLuxury = isLuxury;
             Console.WriteLine($"A {Brand} of the model {Model} has been created");
         }
     }
