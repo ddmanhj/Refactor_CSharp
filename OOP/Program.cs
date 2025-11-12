@@ -19,10 +19,15 @@
             Console.WriteLine("Brand is: " + audi.Brand);
             */
 
+            /*
             //Customer earl = new Customer("Earl", "123 Main St", "09853584932");
             Customer earl = new Customer("Earl");
             Customer frankTheTank  = new Customer("farnkTheTank", "MainStreet 1", "09857438192");
             Console.WriteLine("Name of Customer is " + earl.Name);
+            */
+
+            Car myAudi = new Car("A3", "Audi", false);
+            myAudi.Drive();
             Console.ReadKey();
         }
     }
