@@ -12,6 +12,14 @@ namespace OOP
         public string Address { get; set; }
         public string ContactNumber { get; set; }
 
+        // Default Constructor
+        public Customer()
+        {
+            Name = "New Customer";
+            Address = "Unknown";
+            ContactNumber = "NA";
+        }
+
         // Custom Constructor
         public Customer(string name, string address, string contactNumber)
         {
@@ -24,5 +32,12 @@ namespace OOP
         {
             Name = name;
         }
+
+        public void SetDetails(string name, string address, string contactNumber = "NA")
+        {
+            Name = name;
+            Address = address;
+            ContactNumber = contactNumber;
+        } 
     }
 }
