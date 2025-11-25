@@ -21,16 +21,11 @@ namespace OOP
         }
 
         // Custom Constructor
-        public Customer(string name, string address, string contactNumber)
+        public Customer(string name, string address = "NA", string contactNumber = "NA")
         {
             Name = name;
             Address = address;
             ContactNumber = contactNumber;
-        }
-
-        public Customer(string name)
-        {
-            Name = name;
         }
 
         public void SetDetails(string name, string address, string contactNumber = "NA")
